@@ -1,0 +1,99 @@
+ServiceID,Make,Year,ServiceType,TotalCost
+77467,BMW,2016,Worn Tires - Brake Pad Replacement,370.59
+66701,BMW,2014,Worn Tires - Electrical System Repair,1237.49
+21404,BMW,2022,Transmission Problem - Oil Change,634.97
+89090,Nissan,2016,Engine Overheating - Exhaust System Repair,573.72
+21110,Honda,2010,Suspension Issue - Exhaust System Repair,830.91
+54996,Ford,2005,Suspension Issue - Oil Change,356.02
+88718,Nissan,2005,Worn Tires - Electrical System Repair,789.12
+71306,Honda,2003,Electrical Issues - Oil Change,361.09
+77205,Toyota,2002,Electrical Issues - Electrical System Repair,1300.74
+72887,Ford,2011,Engine Overheating - Tire Replacement,922.1
+62350,Nissan,2011,Worn Tires - Brake Pad Replacement,778.86
+30313,Nissan,2020,Battery Issue - Suspension Repair,497.79
+99215,Honda,2023,Suspension Issue - Brake Pad Replacement,909.18
+20825,Ford,2018,Transmission Problem - Brake Pad Replacement,998.91
+70915,Toyota,2006,Transmission Problem - Battery Replacement,1059.55
+20766,Nissan,2008,Suspension Issue - Electrical System Repair,784.26
+37974,Nissan,2001,Transmission Problem - Suspension Repair,776.81
+57805,Toyota,2015,Electrical Issues - Exhaust System Repair,884.23
+64521,BMW,2006,Electrical Issues - Electrical System Repair,698.42
+75012,Toyota,2015,Suspension Issue - Brake Pad Replacement,946.18
+12991,Ford,2023,Worn Tires - Electrical System Repair,974.5
+40588,Toyota,2016,Battery Issue - Suspension Repair,1419.4
+85482,Ford,2004,Battery Issue - Tire Replacement,233.4
+74159,Ford,2016,Engine Overheating - Battery Replacement,786.64
+27001,Ford,2019,Suspension Issue - Suspension Repair,840.47
+21762,BMW,2013,Worn Tires - Suspension Repair,1245.96
+79941,BMW,2001,Suspension Issue - Battery Replacement,382.88
+48731,BMW,2011,Worn Tires - Brake Pad Replacement,762.2
+69659,Ford,2006,Battery Issue - Electrical System Repair,884.3
+19433,Nissan,2012,Oil Leak - Transmission Repair,517.61
+21709,Toyota,2004,Engine Overheating - Battery Replacement,331.3
+62650,BMW,2019,Engine Overheating - Brake Pad Replacement,1133.02
+50259,Ford,2020,Suspension Issue - Tire Replacement,495.04
+45341,Ford,2021,Electrical Issues - Suspension Repair,659.02
+39182,Toyota,2016,Transmission Problem - Suspension Repair,462.89
+90147,Toyota,2009,Worn Tires - Exhaust System Repair,170.68
+41388,Honda,2002,Exhaust System Leak - Engine Cooling System Repair,736.94
+24120,Honda,2000,Suspension Issue - Suspension Repair,1127.82
+82124,Toyota,2006,Exhaust System Leak - Brake Pad Replacement,1137.65
+78595,Nissan,2009,Engine Overheating - Exhaust System Repair,1051.35
+12083,Nissan,2020,Oil Leak - Battery Replacement,1424.15
+90907,Toyota,2011,Exhaust System Leak - Exhaust System Repair,808.83
+85813,BMW,2015,Engine Overheating - Exhaust System Repair,877.87
+29882,Ford,2015,Brake Failure - Battery Replacement,459.91
+98571,Ford,2007,Battery Issue - Electrical System Repair,1004.42
+93311,Toyota,2002,Transmission Problem - Electrical System Repair,1006.92
+78654,Nissan,2000,Suspension Issue - Oil Change,1193.88
+60258,Toyota,2003,Battery Issue - Battery Replacement,888.71
+53426,Nissan,2023,Suspension Issue - Battery Replacement,805.19
+76387,Ford,2004,Electrical Issues - Oil Change,1093.07
+26472,Ford,2002,Worn Tires - Transmission Repair,1185.82
+29196,Honda,2023,Battery Issue - Transmission Repair,646.01
+46259,BMW,2009,Worn Tires - Brake Pad Replacement,996.3
+57461,Ford,2001,Brake Failure - Exhaust System Repair,479.33
+68280,Honda,2021,Electrical Issues - Electrical System Repair,1095.19
+16096,Ford,2018,Brake Failure - Exhaust System Repair,1062.23
+40337,BMW,2003,Exhaust System Leak - Transmission Repair,1297.29
+59030,Honda,2013,Transmission Problem - Tire Replacement,631.62
+16021,Ford,2000,Worn Tires - Exhaust System Repair,702.47
+45145,Nissan,2003,Electrical Issues - Electrical System Repair,564.75
+67314,Nissan,2003,Brake Failure - Transmission Repair,397.21
+81505,Honda,2002,Engine Overheating - Suspension Repair,513.81
+50560,BMW,2009,Brake Failure - Brake Pad Replacement,1227.11
+33161,Honda,2010,Suspension Issue - Battery Replacement,230.34
+46280,BMW,2002,Battery Issue - Transmission Repair,478.87
+15963,Honda,2010,Transmission Problem - Oil Change,1270.51
+43893,BMW,2001,Exhaust System Leak - Tire Replacement,645.85
+44161,Toyota,2007,Electrical Issues - Transmission Repair,570.63
+41560,BMW,2006,Transmission Problem - Suspension Repair,699.55
+56320,BMW,2017,Suspension Issue - Brake Pad Replacement,1280.98
+94574,Ford,2021,Oil Leak - Electrical System Repair,1204.24
+18751,BMW,2011,Electrical Issues - Oil Change,594.85
+35597,Honda,2001,Worn Tires - Exhaust System Repair,1037.33
+13295,Honda,2019,Brake Failure - Electrical System Repair,1249.86
+90312,Honda,2009,Suspension Issue - Suspension Repair,1279.19
+73833,Ford,2003,Battery Issue - Brake Pad Replacement,461.43
+36857,BMW,2012,Suspension Issue - Tire Replacement,1048.85
+38055,Honda,2017,Worn Tires - Brake Pad Replacement,1156.86
+30974,BMW,2013,Engine Overheating - Oil Change,1128.33
+53524,Toyota,2007,Transmission Problem - Electrical System Repair,677.06
+97013,Honda,2020,Battery Issue - Battery Replacement,1367.2
+77637,Nissan,2006,Electrical Issues - Suspension Repair,718.5
+35049,BMW,2021,Worn Tires - Suspension Repair,1143.75
+36602,Toyota,2021,Electrical Issues - Electrical System Repair,949.26
+66190,Ford,2021,Battery Issue - Electrical System Repair,378.52
+79107,Honda,2002,Suspension Issue - Tire Replacement,933.25
+30913,Nissan,2007,Suspension Issue - Transmission Repair,751.57
+51469,Toyota,2017,Suspension Issue - Battery Replacement,988.53
+47757,Ford,2010,Engine Overheating - Exhaust System Repair,1340.72
+46247,Honda,2005,Battery Issue - Oil Change,690.26
+41425,Ford,2015,Electrical Issues - Engine Cooling System Repair,367.88
+28251,Toyota,2001,Worn Tires - Oil Change,990.58
+76372,Honda,2011,Oil Leak - Engine Cooling System Repair,386.52
+84126,BMW,2021,Battery Issue - Exhaust System Repair,749.22
+60628,BMW,2014,Battery Issue - Suspension Repair,1057.17
+19764,Toyota,2022,Suspension Issue - Suspension Repair,1144.38
+82745,BMW,2001,Engine Overheating - Suspension Repair,566.26
+38744,BMW,2023,Transmission Problem - Engine Cooling System Repair,1000.9

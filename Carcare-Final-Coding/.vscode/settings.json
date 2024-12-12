@@ -1,0 +1,13 @@
+{
+    "some.other.setting": "value",
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        ".",
+        "B_tree",
+        "Binary_tree",
+        "CarLinkedList",
+        "Queue",
+        "stake"
+    ]
+}
+
