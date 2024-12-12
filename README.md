@@ -1,3 +1,6 @@
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+
 # 🚗 **Car Service Management System** 🚗
 
 This project is a **Car Service Management System** implemented in **Java**. It demonstrates the use of various data structures like **B-Tree**, **Binary Tree**, **Linked List**, **Queue**, and **Stack** to manage car service records. The system allows for operations such as inserting, deleting, searching, and displaying car service data, all of which are stored in CSV files.
