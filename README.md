@@ -104,7 +104,8 @@ CARCARE-FINAL-CODING/
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/CarServiceManagementSystem.git
- ```
+    ```
+
  ## 🚀 **Set Up the Project**
 
 1. **Open the project** in your preferred Java IDE (e.g., **IntelliJ IDEA**, **Eclipse**).
